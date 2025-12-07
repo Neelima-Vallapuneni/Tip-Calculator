@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+#tip-calculator{
+    max-width: 450px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+#tip-calculator h1 {
+    text-align: center;
+    color: #333;
+}
+#tip-calculator label {
+    font-weight: bold;
+}
+#tip-calculator input{
+    width:100%;
+    padding:8px;
+    margin:8px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+#tip-calculator button {
+    width: 100%;
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
