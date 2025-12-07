@@ -19,7 +19,7 @@ This is a simple and responsive Tip Calculator web application built using HTML,
 
 ## Live Demo
 You can view the live demo of the project here:  
-👉 https://github.com/Neelima-Vallapuneni/Tip-Calculator
+👉 https://neelima-vallapuneni.github.io/Tip-Calculator/
 
 ## How to Run
 1. Download the project files.  
