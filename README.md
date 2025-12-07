@@ -17,6 +17,9 @@ This is a simple and responsive Tip Calculator web application built using HTML,
 ## Screenshots
 ![Tip Calculator Screenshot](tip-calculator-window.png)
 
+## Project Demo (Video)
+![Travel Website Demo](demo.gif)
+
 ## Live Demo
 You can view the live demo of the project here:  
 👉 https://github.com/Neelima-Vallapuneni/Tip-Calculator
